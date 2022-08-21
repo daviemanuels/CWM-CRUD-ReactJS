@@ -3,7 +3,7 @@ import Main from '../template/Main'
 
 const headerProps = {
     icon: 'users',
-    title: 'Uusários',
+    title: 'Usuários',
     subtitle: 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir!'
 }
 
