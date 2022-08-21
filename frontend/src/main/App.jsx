@@ -9,7 +9,7 @@ import Footer from '../components/template/Footer'
 export default props =>
     <div className="app">
         <Logo />
-        <Nav />
+        <Nav icon="home" icon2="users"/>
         <Main icon="home" title="Início"
             subtitle="Segundo projeto do capítulo de React." />
         <Footer />
